@@ -1,0 +1,10 @@
+body {
+    background-color: firebrick;
+}
+div {
+    text-align: center;
+    font-size: 400px;
+    color: white;
+    font-family: fantasy;
+    margin-top: 120px;
+}
